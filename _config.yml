@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: [Raymond's Github site]
+description: [My place to test and demo code.]
+show_downloads: ["true"]
