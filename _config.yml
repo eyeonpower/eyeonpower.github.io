@@ -1,4 +1,7 @@
 theme: jekyll-theme-cayman
-title: [Raymond's Github site]
+title: Awesome Github site
+author: 'Raymond Phillips'
 description: [My place to demo code.]
 google_analytics: UA-153086362-1
+twitter_username: eyeonpower # DO NOT include the @ character, or else the build will fail!
+github_username:  eyeonpower
