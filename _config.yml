@@ -1,4 +1,4 @@
-theme: jekyll-theme-modernist
+remote_theme: mmistakes/minimal-mistakes
 title: "Raymond's Blog"
 author: 'Raymond Phillips'
 description: "The weblog of an IT pro focusing on C#, Swift, macOS, and Windows"
