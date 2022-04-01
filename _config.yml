@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes
 title: Awesome Github site
 author: 'Raymond Phillips'
 description: [My place to demo code.]
