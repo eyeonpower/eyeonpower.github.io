@@ -5,3 +5,11 @@ description: "The weblog of an IT pro focusing on C#, Swift, macOS, and Windows"
 google_analytics: UA-153086362-1
 twitter_username: eyeonpower # DO NOT include the @ character, or else the build will fail!
 github_username:  eyeonpower
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
