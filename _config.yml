@@ -17,7 +17,7 @@ plugins:
 
 author:
   name             : "Raymond Phillips"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpeg"
   bio              : "The weblog of an IT pro focusing on C#, Swift, macOS, and Windows."
   location         : "South Carolina"
   email            :
